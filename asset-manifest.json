@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/quote_generator_machines%20/static/css/main.f4102fe5.chunk.css",
-    "main.js": "/quote_generator_machines%20/static/js/main.39f4d275.chunk.js",
-    "main.js.map": "/quote_generator_machines%20/static/js/main.39f4d275.chunk.js.map",
-    "runtime-main.js": "/quote_generator_machines%20/static/js/runtime-main.d33d689c.js",
-    "runtime-main.js.map": "/quote_generator_machines%20/static/js/runtime-main.d33d689c.js.map",
-    "static/js/2.7d15f404.chunk.js": "/quote_generator_machines%20/static/js/2.7d15f404.chunk.js",
-    "static/js/2.7d15f404.chunk.js.map": "/quote_generator_machines%20/static/js/2.7d15f404.chunk.js.map",
-    "static/js/3.0c2353de.chunk.js": "/quote_generator_machines%20/static/js/3.0c2353de.chunk.js",
-    "static/js/3.0c2353de.chunk.js.map": "/quote_generator_machines%20/static/js/3.0c2353de.chunk.js.map",
-    "index.html": "/quote_generator_machines%20/index.html",
-    "static/css/main.f4102fe5.chunk.css.map": "/quote_generator_machines%20/static/css/main.f4102fe5.chunk.css.map",
-    "static/js/2.7d15f404.chunk.js.LICENSE.txt": "/quote_generator_machines%20/static/js/2.7d15f404.chunk.js.LICENSE.txt"
+    "main.css": "/quote_generator_machines/static/css/main.f4102fe5.chunk.css",
+    "main.js": "/quote_generator_machines/static/js/main.d8c39571.chunk.js",
+    "main.js.map": "/quote_generator_machines/static/js/main.d8c39571.chunk.js.map",
+    "runtime-main.js": "/quote_generator_machines/static/js/runtime-main.f903f56b.js",
+    "runtime-main.js.map": "/quote_generator_machines/static/js/runtime-main.f903f56b.js.map",
+    "static/js/2.babfb6fa.chunk.js": "/quote_generator_machines/static/js/2.babfb6fa.chunk.js",
+    "static/js/2.babfb6fa.chunk.js.map": "/quote_generator_machines/static/js/2.babfb6fa.chunk.js.map",
+    "static/js/3.0c2353de.chunk.js": "/quote_generator_machines/static/js/3.0c2353de.chunk.js",
+    "static/js/3.0c2353de.chunk.js.map": "/quote_generator_machines/static/js/3.0c2353de.chunk.js.map",
+    "index.html": "/quote_generator_machines/index.html",
+    "static/css/main.f4102fe5.chunk.css.map": "/quote_generator_machines/static/css/main.f4102fe5.chunk.css.map",
+    "static/js/2.babfb6fa.chunk.js.LICENSE.txt": "/quote_generator_machines/static/js/2.babfb6fa.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.d33d689c.js",
-    "static/js/2.7d15f404.chunk.js",
+    "static/js/runtime-main.f903f56b.js",
+    "static/js/2.babfb6fa.chunk.js",
     "static/css/main.f4102fe5.chunk.css",
-    "static/js/main.39f4d275.chunk.js"
+    "static/js/main.d8c39571.chunk.js"
   ]
 }
